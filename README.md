@@ -1,0 +1,2 @@
+# Spotify Song Popularity Prediction
+ This project aims to predict the popularity of songs based on their audio features using data from Spotify. By employing various machine learning models, we explore the relationship between song characteristics (such as danceability, energy, tempo, and more) and their popularity scores. This analysis provides insights into what makes a song popular and can aid record labels, artists, and producers in crafting music that resonates with a wide audience.
