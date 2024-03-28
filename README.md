@@ -12,7 +12,7 @@ This project uses Spotify's dataset to predict song popularity from their audio 
 
 ## Getting Started
 
-This project is designed to be run in Google Colab, which provides a free Jupyter notebook environment that requires no setup and runs entirely in the cloud.
+This project is designed to be run in Google Colab, a free Jupyter notebook environment that requires no setup and runs entirely in the cloud.
 
 ### Running the Notebook
 
@@ -30,7 +30,7 @@ The project explores machine learning models to predict song popularity, focusin
 
 ## Results
 
-The notebook discusses model performance, accuracy metrics, and feature importance, providing insights into factors influencing song popularity on Spotify.
+The notebook discusses model performance, accuracy metrics, and feature importance, providing insights into factors influencing song popularity on Spotify. You can view the results of the analysis in the [Results](Results/Song_Popularity_Prediction_Results.md) file (replace with path if the results are in a separate file).
 
 ## Contributing
 
