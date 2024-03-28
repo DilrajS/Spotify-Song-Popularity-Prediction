@@ -30,7 +30,7 @@ The project explores machine learning models to predict song popularity, focusin
 
 ## Results
 
-The notebook discusses model performance, accuracy metrics, and feature importance, providing insights into factors influencing song popularity on Spotify. You can view the results of the analysis in the [Results](Results/Song_Popularity_Prediction_Results.md) file (replace with path if the results are in a separate file).
+The notebook discusses model performance, accuracy metrics, and feature importance, providing insights into factors influencing song popularity on Spotify. You can view the results of the analysis in the [Results](Results/Song_Popularity_Prediction_Results.md) file.
 
 ## Contributing
 
