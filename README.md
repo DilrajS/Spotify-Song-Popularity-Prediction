@@ -1,5 +1,7 @@
 # Spotify Song Popularity Prediction
 
+![Spotify Song Popularity Prediction Banner](images/sspBanner.gif)
+
 ## Overview
 
 This project uses Spotify's dataset to predict song popularity from their audio features. Employing machine learning models, it explores how attributes like danceability, energy, and tempo impact a song's success. The insights can help in creating music that resonates widely.
