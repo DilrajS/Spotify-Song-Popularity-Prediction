@@ -6,11 +6,11 @@ This project explored the fascinating, yet challenging, task of predicting song 
 
 **Approaching the Challenge: Data Exploration and Feature Selection**
 
-![Distribution of Song Popularity](images/Distribution of Song Popularity.png)
+![Distribution of Song Popularity](images/Distribution%20of%20Song%20Popularity.png)
 
 The Spotify dataset provided a wealth of information about songs and their audio characteristics. To gain insights, I employed various data exploration techniques, including analyzing distributions, identifying missing values, and visualizing correlations between features.
 
-![Correlation Matrix of Audio Features](images/Correlation Matrix of Audio Features.png)
+![Correlation Matrix of Audio Features](images/Correlation%20Matrix%20of%20Audio%20Features.png)
 
 A crucial step was feature selection. Correlation analysis revealed features like 'duration_ms' had minimal impact on popularity, so I removed them to streamline the model. Additionally, I addressed multicollinearity between 'loudness' and 'energy' by keeping 'loudness' as a representative feature.
 
