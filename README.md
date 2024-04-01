@@ -18,7 +18,7 @@ This project is designed to be run in Google Colab, a free Jupyter notebook envi
 
 1. Upload the [Song_Popularity_Prediction.ipynb](notebooks/Song_Popularity_Prediction.ipynb) notebook to Google Colab.
 2. Upload the [SpotifyFeatures.csv](data/SpotifyFeatures.csv) dataset to the Colab notebook environment using the file upload feature.
-3. You can now run the notebook cells to perform the analysis and view the results.
+3. You can now run the notebook cells to perform the analysis and view the [Results](Song_Popularity_Prediction_Results.md).
 
 ## Dataset
 
