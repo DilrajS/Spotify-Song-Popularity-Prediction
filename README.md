@@ -28,7 +28,7 @@ The `SpotifyFeatures.csv` dataset contains audio features of songs from Spotify,
 
 ## Models and Analysis
 
-The project explores machine learning models to predict song popularity, focusing on linear regression, decision trees, and ensemble methods. The analysis includes data preprocessing, feature selection, model training, and evaluation.
+The project explores machine learning models to predict song popularity, focusing on decision trees, neural networks, and ensemble methods. The analysis includes data preprocessing, feature selection, model training, and evaluation.
 
 ## Results
 
